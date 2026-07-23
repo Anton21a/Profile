@@ -20,6 +20,7 @@ I earned a bachelor's degree in business analytics, where I acquired statistical
 ### Badges
 
 <p align="left">
-  <a href="https://github.com/Anton21a" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anton21a&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <a href="https://github.com/Anton21a" target="_blank" rel="noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anton21a&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 </p>
