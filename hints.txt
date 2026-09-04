@@ -1,0 +1,4 @@
+python -m venv venv - venv creating
+.\venv\Scripts\activate - venv activation
+conda deactivate - base env deactivating
+.\venv\Scripts\python.exe -m pip install -r .\requirements.txt - installing packages in requirements file

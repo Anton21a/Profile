@@ -12,3 +12,11 @@ seaborn
 tensorflow
 scikeras
 tabpfn
+requests
+pybit
+binance
+cryptography
+aiohttp
+python-binance
+pyarrow
+boto3

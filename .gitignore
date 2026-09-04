@@ -1,2 +1,5 @@
 venv/
 Machine Learning/data/nyc_taxi/train.csv
+.aws/credentials
+.aws/credentials.example
+.aws/config
